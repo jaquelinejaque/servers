@@ -1303,6 +1303,7 @@ search, and comprehensive file analysis.
 - **[Solvitor](https://github.com/Adeptus-Innovatio/solvitor-mcp)** – Solvitor MCP server provides tools to access reverse engineering tools that help developers extract IDL files from closed - source Solana smart contracts and decompile them.
 - **[Source to Knowledge Base](https://github.com/vezlo/src-to-kb)** - Convert source code repositories into searchable knowledge bases with AI-powered search using GPT-5, intelligent chunking, and OpenAI embeddings for semantic code understanding.
 - **[Sourcerer](https://github.com/st3v3nmw/sourcerer-mcp)** - MCP for semantic code search & navigation that reduces token waste.
+- **[Sovereign Clean](https://mcp.sovereignclean.uk)** - AI-powered cleaning service booking for London. Get pricing, list services, schedule cleanings, check booking status, and manage cancellations through natural language. [API Docs](https://mcp.sovereignclean.uk/mcp/tools)
 - **[Specbridge](https://github.com/TBosak/specbridge)** - Easily turn your OpenAPI specs into MCP Tools.
 - **[Splunk](https://github.com/jkosik/mcp-server-splunk)** - Golang MCP server for Splunk (lists saved searches, alerts, indexes, macros...). Supports SSE and STDIO.
 - **[Spotify](https://github.com/varunneal/spotify-mcp)** - This MCP allows an LLM to play and use Spotify.
